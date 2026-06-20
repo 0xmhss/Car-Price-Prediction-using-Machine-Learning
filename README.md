@@ -145,7 +145,7 @@ jupyter notebook car.ipynb
 
 ## 👨‍💻 Author
 
-**Mohamad Soussi**
+**Mohamed Soussi**
 
 
 ---

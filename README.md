@@ -113,7 +113,7 @@ The project visualizes:
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/0xmhss/Car-Price-Prediction-using-Machine-Learning.git
 ```
 
 2. Install dependencies:
